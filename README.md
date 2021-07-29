@@ -5,7 +5,7 @@ Finite Element Analysis
 * Library Used
 *  * SymPy
 *  * NumPy
-*  * Matplotlib
+*  * Matplotlib and Seaborn
 
 
 ## Gauss-Legendre Quadrature implementation in Python
@@ -18,5 +18,4 @@ Finite Element Analysis
 ## Element Calculation (Stiffeness and Force Matrix)
 [Ipython Notebook](https://github.com/iampramodyadav/FEA/blob/main/FEA_1D_Element.ipynb)
 * Library Used
-*  * SymPy
 *  * NumPy
