@@ -15,7 +15,7 @@ Finite Element Analysis
 *  * NumPy
 *  * Matplotlib
 
-## Element Calculation (Stiffeness and Force Vector)
+## Element Calculation (Stiffeness Matrix and Force Vector)
 [Ipython Notebook](https://github.com/iampramodyadav/FEA/blob/main/FEA_1D_Element.ipynb)
 * Library Used
 *  * NumPy
