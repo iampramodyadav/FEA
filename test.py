@@ -16,3 +16,6 @@ def Legendre(n,x):
     return x
   else:
     return ((2.0*n-1.0)*x*Legendre(n-1,x)-(n-1)*Legendre(n-2,x))/n
+
+x=symbols('x')
+print(Legendre(5,x))
