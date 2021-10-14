@@ -1,5 +1,5 @@
 # FEA :(1-D Bar Element)
-Finite Element Analysis
+Complete Current Progress Report ([IPYNB](https://github.com/iampramodyadav/FEA/blob/main/fea_bar_report.ipynb) , [PDF](https://github.com/iampramodyadav/FEA/blob/main/FEA_Python_BarElement(Pramod_20132015).pdf.pdf))
 ## Natural Coordinate: Shape Funtion and its derivative (& plotting of shape function)
 [Ipython Notebook](https://github.com/iampramodyadav/FEA/blob/main/Shape_Function.ipynb)
 * Library Used
